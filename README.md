@@ -4,7 +4,9 @@
 
 > 这是作者和朋友在大学时，初学javaweb开发的练手项目；所以各方面功能的设计以及后面的代码都缺乏可用性，主要以学习为主，
 >
-> 如果这个项目觉得很 low，请勿喷。本人git上有其他进阶的项目，欢迎大家 star 或者 fork。
+> 如果这个项目觉得很 low，请勿喷。本人git上有其他进阶的项目。
+>
+> 欢迎大家 star 或者 fork。
 >
 > 
 
@@ -33,15 +35,15 @@
 
 http://localhost/zhifou/index.jsp -主页
 
-![image-20200220233845203](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220233845203.png)
+![image-20200220233845203](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220233845203.png)
 
 登录页面：
 
-![image-20200220234007383](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220234007383.png)
+![image-20200220234007383](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220234007383.png)
 
 提问：
 
-![image-20200220234208272](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220234208272.png)
+![image-20200220234208272](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220234208272.png)
 
 
 
@@ -49,12 +51,12 @@ http://localhost/zhifou/index.jsp -主页
 
 访问后台：http://localhost/zhifou/adminlogin.jsp
 
-![image-20200220234328216](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220234328216.png)
+![image-20200220234328216](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220234328216.png)
 
 问题审核：
 
-![image-20200220234352771](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220234352771.png)
+![image-20200220234352771](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220234352771.png)
 
 发布公告与类型管理：
 
-![image-20200220234435104](C:/Users/41765/AppData/Roaming/Typora/typora-user-images/image-20200220234435104.png)
+![image-20200220234435104](https://raw.githubusercontent.com/SsiriYang/zhifou/master/ReadmeImg/image-20200220234435104.png)
